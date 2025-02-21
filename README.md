@@ -1,7 +1,7 @@
 
 # dogwiftools \ \ t.me/blackdevrose1
 
-initial release of **dogwiftools** 😂😂
+initial release of **dogwiftools** v2.1.5 😂😂
 
 all cloud-based features works as well, moved to decentralised servers.
 
